@@ -2148,7 +2148,6 @@ span.ui-slider-label-b { z-index: 0; right: 0; text-indent: 1.5em;}
 
 h2, h3 {
 	font-family:league_gothicregular;
-
 }
 
 p {
@@ -2201,7 +2200,22 @@ p {
 	font-weight: normal !important;
 }
 
+.nav_menu {
+	float: left;
+	font-family:league_gothicregular;
+	font-weight: bold;
+	font-size: 13px;
+	text-transform:uppercase;
+	width: 100%;
+}
 
+.nav_menu ul li {
+	float: left;
+	list-style-type: none;
+	text-decoration: none;
+	width: 35%;
+	margin-left: -20px;
+}
 
 
 
